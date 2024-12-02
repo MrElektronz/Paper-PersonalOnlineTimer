@@ -1,0 +1,9 @@
+name: PersonalOnlineTimer
+version: '1.0-SNAPSHOT'
+main: com.mrelektronz.personalonlinetimer.PersonalOnlineTimer
+api-version: '1.21'
+
+commands:
+  time:
+    description: Returns the time you've been active on this server
+    usage: /time
